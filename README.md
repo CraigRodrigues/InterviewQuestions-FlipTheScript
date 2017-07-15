@@ -1,5 +1,7 @@
 # Flip the Script (╯°□°）╯︵ ┻━┻
-## A List of Random Questions To Ask Your Potential Manager/Teammate/Company
+#### A List of Random Questions To Ask Your Potential Manager/Teammate/Company
+
+_This is a personal extension of [this list by ChiperSoft](https://github.com/ChiperSoft/InterviewThis) with questions of my own._
 
 ### Personal
 - What will be my day to day responsibilities?
@@ -119,7 +121,7 @@
 - Is there good documentation or a wiki?
 - What are the biggest challenges facing your team right now?
 
-## Other Benefits
+### Other Benefits
 - Does this company support a healthy lifestyle? Gym membership, health insurance, etc?
 - Do you have a target salary range?
 - Is your company currently profitable?
