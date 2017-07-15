@@ -26,8 +26,8 @@ _This is a personal extension of [this list by ChiperSoft](https://github.com/Ch
 - What do you think of people with a background like mine (coding bootcamp)
 - How does the company / my future boss do performance reviews? How do I make the most of the performance review process to ensure that I'm doing the best I can for the company?
 - What is the typical career path for someone in this role?
-- RISKY: How do I compare to other candidates you've interviewed for this role?
-- RISKY: How soon can I start?
+- **RISKY: How do I compare to other candidates you've interviewed for this role?**
+- **RISKY: How soon can I start?**
 - What is the best time/way to follow-up with you?
 - What part of my resume stands out to you the most?
 - What made you choose to interview me out of all the other applicants?
