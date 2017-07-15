@@ -1,5 +1,5 @@
-# Flip the Script
-## A List of Questions To Ask Your Potential Manager/Teammate/Company
+# Flip the Script (╯°□°）╯︵ ┻━┻
+## A List of Random Questions To Ask Your Potential Manager/Teammate/Company
 
 ### Personal
 - What will be my day to day responsibilities?
