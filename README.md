@@ -1,6 +1,7 @@
-# A List of Questions To Ask Your Potential Manager/Teammate/Company
+# Flip the Script
+## A List of Questions To Ask Your Potential Manager/Teammate/Company
 
-## Personal
+### Personal
 - What will be my day to day responsibilities?
 - What programming languages will I be expected to work in?
 - Do you have any goals? What is your plan for achieving your biggest goal?
@@ -29,7 +30,7 @@
 - What part of my resume stands out to you the most?
 - What made you choose to interview me out of all the other applicants?
 
-## Company
+### Company
 - Why are you hiring for this position?
 - Which competitor are you most worried about?
 - Where do you see this company in 5 years?
@@ -55,7 +56,7 @@
 - Will the company pay for training programs / certifications / conferences? What is the approval process like?
 - What is the company policy with regards to side projects? Am I allowed to work on my own sites?
 
-## Technical
+### Technical
 - What will be the first projects I’ll be working on once hired?
 - Do you work on any side projects? One you're most proud of?
 - Do you do any work in open-source?
@@ -100,7 +101,7 @@
 - Do you have a "story book" or library of resuable components?
 - Could you give me an example of a project I’d be working on?
 
-## Team/Work Environment
+### Team/Work Environment
 - How do you and your team handle conflict resolution?
 - What kind of methodology do you follow here? (Agile, Kanban, Waterfall?)
 - Can you tell me of a time you made a false assumption? What happened?
@@ -118,8 +119,9 @@
 - Is there good documentation or a wiki?
 - What are the biggest challenges facing your team right now?
 
-## Money/Benefits
+## Other Benefits
 - Does this company support a healthy lifestyle? Gym membership, health insurance, etc?
 - Do you have a target salary range?
 - Is your company currently profitable?
 - What are the next steps in the interview process?
+- Is there food? Lunch? Snacks? Drinks?
